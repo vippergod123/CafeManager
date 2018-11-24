@@ -1,0 +1,12 @@
+c:\users\tai-dang\documents\visual studio 2013\Projects\KTPM_ProjectFinal\KTPM_ProjectFinal\bin\Debug\KTPM_ProjectFinal.exe.config
+C:\Users\TAI-DANG\Documents\Visual Studio 2013\Projects\KTPM_ProjectFinal\KTPM_ProjectFinal\obj\Debug\KTPM_ProjectFinal.csprojResolveAssemblyReference.cache
+C:\Users\TAI-DANG\Documents\Visual Studio 2013\Projects\KTPM_ProjectFinal\KTPM_ProjectFinal\obj\Debug\KTPM_ProjectFinal.Properties.Resources.resources
+C:\Users\TAI-DANG\Documents\Visual Studio 2013\Projects\KTPM_ProjectFinal\KTPM_ProjectFinal\obj\Debug\KTPM_ProjectFinal.csproj.GenerateResource.Cache
+C:\Users\TAI-DANG\Documents\Visual Studio 2013\Projects\KTPM_ProjectFinal\KTPM_ProjectFinal\bin\Debug\KTPM_ProjectFinal.exe
+C:\Users\TAI-DANG\Documents\Visual Studio 2013\Projects\KTPM_ProjectFinal\KTPM_ProjectFinal\bin\Debug\KTPM_ProjectFinal.pdb
+C:\Users\TAI-DANG\Documents\Visual Studio 2013\Projects\KTPM_ProjectFinal\KTPM_ProjectFinal\obj\Debug\KTPM_ProjectFinal.exe
+C:\Users\TAI-DANG\Documents\Visual Studio 2013\Projects\KTPM_ProjectFinal\KTPM_ProjectFinal\obj\Debug\KTPM_ProjectFinal.pdb
+C:\Users\TAI-DANG\Documents\Visual Studio 2013\Projects\KTPM_ProjectFinal\KTPM_ProjectFinal\obj\Debug\KTPM_ProjectFinal.fLogin.resources
+C:\Users\TAI-DANG\Documents\Visual Studio 2013\Projects\KTPM_ProjectFinal\KTPM_ProjectFinal\obj\Debug\KTPM_ProjectFinal.fTableManager.resources
+C:\Users\TAI-DANG\Documents\Visual Studio 2013\Projects\KTPM_ProjectFinal\KTPM_ProjectFinal\obj\Debug\KTPM_ProjectFinal.fAccountProfile.resources
+C:\Users\TAI-DANG\Documents\Visual Studio 2013\Projects\KTPM_ProjectFinal\KTPM_ProjectFinal\obj\Debug\KTPM_ProjectFinal.fAdmin.resources

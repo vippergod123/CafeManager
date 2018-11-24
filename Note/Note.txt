@@ -1,0 +1,1 @@
+﻿Lỗi: SQL - Injection. -> Dùng create Proc
